@@ -65,6 +65,7 @@
         app:layout_constraintLeft_toRightOf="@+id/btn_show_back"
         app:layout_constraintBaseline_toBaselineOf="@+id/btn_show_back" />
     <com.myocr.happyandhappy.ididentifier.ResultView
+        android:id="@+id/resultView"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="0dp"

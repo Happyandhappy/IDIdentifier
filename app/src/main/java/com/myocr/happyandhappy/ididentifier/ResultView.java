@@ -39,5 +39,16 @@ public class ResultView extends LinearLayout {
         match_cpf=(TextView)findViewById(R.id.txt_match_cpf);
     }
 
+    public void setData(OCRData data){
+        username.setText(data.username);
+        user_cpf.setText(data.usercpf);
+        userregistrogeral.setText(data.registro);
+        match_idrecognition.setText(data.match_idrecognition);
+        zipcode.setText(data.zipcode);
+        match_billrecognition.setText(data.match_billrecognition);
+        match_name.setText(data.match_name);
+        match_registrogeral.setText(data.match_registrogeral);
+        match_cpf.setText(data.match_cpf);
+    }
 
 }
