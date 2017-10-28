@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">IDIdentifier</string>
+    <string name="take_front_id">Take Picture\nID Front</string>
+    <string name="take_back_id">Take Picture\nID Back</string>
+    <string name="take_bill_id">Take Picture\n Bill</string>
+    <string name="id_analysis">ID Analysis : </string>
+    <string name="user_name">User Name : </string>
+    <string name="user_registro_geral">User Registro Geral</string>
+    <string name="user_cpf">User CPF</string>
+    <string name="id_recognition_match">ID Recognition Match : </string>
+    <string name="bill_analysis">Bill Analysis : </string>
+    <string name="zipcode">ZipCode : </string>
+    <string name="bill_recognition_match">Bill Recognition Match : </string>
+    <string name="match">Match : </string>
+    <string name="id_data_input">ID Data Input</string>
+    <string name="push_id_image1">Push ID Image1\n Front</string>
+    <string name="push_id_image2">Push ID Image2\n Back</string>
+    <string name="push_id_bill">Push ID Image3\n Bill</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="save_and_goback">Save and Go Back</string>
+    <string name="retake_picture">Re-Take Picture</string>
+    <string name="crop">Crop</string>
+    <string name="goback">Go Back</string>
+    <string name="adult">Adult</string>
+    <string name="spoof">Spoof</string>
+    <string name="medical">Medical</string>
+    <string name="violence">Violence</string>
+    <string name="unlikely">Unlikely</string>
+    <string name="very_unlikely">Very Unlikely</string>
+    <string name="id_front">INSERT ID FRONT</string>
+    <string name="id_back">INSERT ID BACK</string>
+    <string name="bill">INSERT BILL</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
